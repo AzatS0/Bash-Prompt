@@ -1,0 +1,166 @@
+[
+    {
+        "command": "ls",
+        "description": "Listet den Inhalt eines Verzeichnisses auf"
+    },
+    {
+        "command": "cd",
+        "description": "Wechselt das Arbeitsverzeichnis der Shell"
+    },
+    {
+        "command": "pwd",
+        "description": "Gibt den Namen des aktuellen/Arbeitsverzeichnisses aus"
+    },
+    {
+        "command": "mkdir",
+        "description": "Erstellt Verzeichnisse"
+    },
+    {
+        "command": "rmdir",
+        "description": "Entfernt leere Verzeichnisse"
+    },
+    {
+        "command": "rm",
+        "description": "L\u00f6scht Dateien oder Verzeichnisse"
+    },
+    {
+        "command": "cp",
+        "description": "Kopiert Dateien und Verzeichnisse"
+    },
+    {
+        "command": "mv",
+        "description": "Verschiebt (umbenennt) Dateien"
+    },
+    {
+        "command": "touch",
+        "description": "\u00c4ndert die Zeitstempel einer Datei"
+    },
+    {
+        "command": "echo",
+        "description": "Gibt eine Zeile Text aus"
+    },
+    {
+        "command": "cat",
+        "description": "Verkettet und gibt Dateien aus"
+    },
+    {
+        "command": "head",
+        "description": "Gibt den ersten Teil von Dateien aus"
+    },
+    {
+        "command": "tail",
+        "description": "Gibt den letzten Teil von Dateien aus"
+    },
+    {
+        "command": "grep",
+        "description": "Gibt Zeilen aus, die einem Muster entsprechen"
+    },
+    {
+        "command": "find",
+        "description": "Durchsucht Verzeichnisb\u00e4ume nach Dateien"
+    },
+    {
+        "command": "chmod",
+        "description": "\u00c4ndert die Dateizugriffsrechte"
+    },
+    {
+        "command": "chown",
+        "description": "\u00c4ndert den Eigent\u00fcmer und die Gruppe einer Datei"
+    },
+    {
+        "command": "ln",
+        "description": "Erstellt Verkn\u00fcpfungen zwischen Dateien"
+    },
+    {
+        "command": "df",
+        "description": "Berichtet \u00fcber die Festplattennutzung des Dateisystems"
+    },
+    {
+        "command": "du",
+        "description": "Sch\u00e4tzt den Speicherplatz von Dateien"
+    },
+    {
+        "command": "tar",
+        "description": "Archivdateien verwalten"
+    },
+    {
+        "command": "zip",
+        "description": "Dateien packen und komprimieren"
+    },
+    {
+        "command": "unzip",
+        "description": "Komprimierte Dateien extrahieren"
+    },
+    {
+        "command": "wget",
+        "description": "Nicht-interaktiver Netzwerksdownloader"
+    },
+    {
+        "command": "curl",
+        "description": "\u00dcbertr\u00e4gt eine URL"
+    },
+    {
+        "command": "ps",
+        "description": "Gibt eine Liste der aktuellen Prozesse aus"
+    },
+    {
+        "command": "kill",
+        "description": "Beendet einen Prozess"
+    },
+    {
+        "command": "top",
+        "description": "Zeigt die aktuell laufenden Prozesse an"
+    },
+    {
+        "command": "man",
+        "description": "Zeigt die Handbuchseite f\u00fcr einen Befehl an"
+    },
+    {
+        "command": "ssh",
+        "description": "Verbindet sich mit einem entfernten Host \u00fcber SSH"
+    },
+    {
+        "command": "scp",
+        "description": "Sichere Kopie von Dateien zwischen Hosts"
+    },
+    {
+        "command": "ping",
+        "description": "Sendet ICMP-Echo-Anfragen an ein Netzwerkger\u00e4t"
+    },
+    {
+        "command": "netstat",
+        "description": "Netzwerkstatistiken anzeigen"
+    },
+    {
+        "command": "ifconfig",
+        "description": "Konfiguriert Netzwerkinterfaces"
+    },
+    {
+        "command": "uname",
+        "description": "Zeigt Systeminformationen an"
+    },
+    {
+        "command": "uptime",
+        "description": "Zeigt an, wie lange das System l\u00e4uft"
+    },
+    {
+        "command": "dmesg",
+        "description": "Gibt den Kernel- und Systemmeldungen aus"
+    },
+    {
+        "command": "mount",
+        "description": "H\u00e4ngt ein Dateisystem ein"
+    },
+    {
+        "command": "umount",
+        "description": "H\u00e4ngt ein Dateisystem aus"
+    },
+    {
+        "command": "chmod",
+        "description": "\u00c4ndert Dateizugriffsrechte"
+    },
+    {
+        "command": "chown",
+        "description": "\u00c4ndert den Eigent\u00fcmer von Dateien"
+    }
+]
