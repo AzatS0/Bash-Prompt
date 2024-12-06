@@ -19,7 +19,7 @@ Außerdem ist dieses Projekt derzeit **nur mit Linux** kompatibel. Es kann auf a
 
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # Auf Linux/macOS
+   source venv/bin/activate  # Auf Linux
    ```
 3. Abhängigkeiten installieren
    ```bash
